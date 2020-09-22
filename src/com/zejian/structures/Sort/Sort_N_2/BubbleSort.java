@@ -1,6 +1,6 @@
 package com.zejian.structures.Sort.Sort_N_2;
 
-/**
+/**JINJINJIN
  * Created by zejian on 2018/2/12.
  * Blog : http://blog.csdn.net/javazejian [原文地址,请尊重原创]
  * 冒泡排序算法原理:比较两个相邻的元素，将值大的元素交换至右端。
