@@ -27,7 +27,7 @@ package com.zejian.structures.Sort.Sort_N_2;
 public class BubbleSort {
 
     /**
-     * 未优化版本
+     * 未优化版本   remote___changes
      * @param array
      * @param <T>
      */
